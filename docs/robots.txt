@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://www.anniekatelyntang.com//sitemap.xml
+Sitemap: www.anniekatelyntang.com/sitemap.xml

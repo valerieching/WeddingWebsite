@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2018-01-08T15:34:09-06:00
-draft: true
+draft: false
 ---
 
 Hi, I'm Annie.

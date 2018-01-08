@@ -1,7 +1,7 @@
 ---
 title: "Skills"
 date: 2018-01-08T15:33:29-06:00
-draft: true
+draft: false
 ---
 
 ### Python | Java 

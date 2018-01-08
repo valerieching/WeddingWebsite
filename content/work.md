@@ -1,7 +1,7 @@
 ---
 title: "Work"
 date: 2018-01-08T15:32:54-06:00
-draft: true
+draft: false
 ---
 
 ### Apple Media Products Analytics | Research Engineer (2018)

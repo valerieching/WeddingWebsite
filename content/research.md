@@ -1,7 +1,7 @@
 ---
 title: "Research"
 date: 2018-01-08T15:31:47-06:00
-draft: true
+draft: false
 ---
 
 ### <a href="https://bassconnections.duke.edu/project-teams/blue-devil-resistome-project-2017-2018" target="_blank">Blue Devil Resistome</a> (2017-2018)

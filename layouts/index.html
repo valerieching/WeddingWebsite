@@ -28,6 +28,12 @@
             </nav>
           </header>
 
+          <div id="social-icons">
+              {{ range .Site.Params.social }}
+              <a href="{{ .url }}"> <i class="fa fa-{{ .icon}}"></i></a>
+              {{ end }}
+          </div>
+
         <!-- Main -->
           <div id="main">
             {{ range .Data.Pages }}

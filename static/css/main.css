@@ -37,6 +37,18 @@ table {
 body {
   -webkit-text-size-adjust: none; }
 
+/* Social Icons */
+#social-icons {
+  margin: 2.5rem;
+}
+#social-icons a {
+  padding: 2rem;
+}
+
+#social-icons i{
+  font-size: 2rem;
+}
+
 /* Box Model */
 *, *:before, *:after {
   -moz-box-sizing: border-box;

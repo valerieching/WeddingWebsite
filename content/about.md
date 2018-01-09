@@ -11,3 +11,5 @@ I'm a current undergrad at Duke University (2018), where I double major in CS an
 ISFJ (if you put stock in Myers-Briggs), feminist, dog lover (cats are ok), future proprietor of a cauliflower farm.  
 
 {{< figure class="image main" src="/images/self.jpg" >}}
+
+(add me on Animal Crossing 1069 7571 185)

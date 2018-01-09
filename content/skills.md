@@ -7,7 +7,7 @@ draft: false
 ### Python | Java 
 C | R | SQL | HiveQL | Hadoop | TensorFlow | Tesseract| CSS | HTML | Swift | Git | JavaScript | MIPS Assembly | Cypher (Neo4j) | Microsoft Power BI
 
-### Relevant Undergraduate Coursework:
+### Relevant Undergraduate Coursework
 Design & Analysis of Algorithms | Software Design & Implementation | Operating Systems | Introduction to Databases | Bayesian & Modern Statistics | Statistical Case Studies | Statistical Decision Analysis | Statistical Inference | Regression Analysis | Probability | Algorithms & Data Structures | Computer Architecture | Discrete Mathematics | Linear Algebra | Multivariable Calculus
 
 ### Google CodeU

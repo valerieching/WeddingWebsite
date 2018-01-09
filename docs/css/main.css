@@ -45,10 +45,6 @@ body {
   padding: 2rem;
 }
 
-#social-icons i{
-  font-size: 2rem;
-}
-
 /* Box Model */
 *, *:before, *:after {
   -moz-box-sizing: border-box;

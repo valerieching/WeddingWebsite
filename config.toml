@@ -9,7 +9,7 @@ publishDir = "docs"
 
 [params]
   description = '<!--[-->Research Engineer @ Apple<!--]-->'
-  logo = "fa-venus"
+  logo = "fa-hand-peace-o"
   copyright = "Annie Katelyn Tang"
 
 [[params.social]]

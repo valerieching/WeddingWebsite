@@ -15,17 +15,17 @@ publishDir = "docs"
 [[params.social]]
   medium = "linkedin"
   icon = "linkedin"
-  link = "https://www.linkedin.com/in/anniekatelyntang/"
+  url = "https://www.linkedin.com/in/anniekatelyntang/"
 
 [[params.social]]
   medium = "instagram"
   icon = "instagram"
-  link = "https://www.instagram.com/anniekatelyntang/"
+  url = "https://www.instagram.com/anniekatelyntang/"
 
 [[params.social]]
   medium = "github"
   icon = "github"
-  link = "https://github.com/anniekatelyn"
+  url = "https://github.com/anniekatelyn"
 
 [languages]
 [languages.en]

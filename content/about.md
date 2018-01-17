@@ -8,7 +8,7 @@ Hi, I'm Annie.
 
 I'm a current undergrad at Duke University (2018), where I double major in CS and Statistics. Starting in August, I'll be joining Apple as a Research Engineer on the Apple Media Products Analytics team. 
 
-ISFJ (if you put stock in Myers-Briggs), feminist, dog lover (cats are ok), future proprietor of a cauliflower farm.  
+ISFJ (if you put stock in Myers-Briggs), hummus aficionado, dog lover (cats are ok), future proprietor of a cauliflower farm.  
 
 {{< figure class="image main" src="/images/self.jpg" >}}
 

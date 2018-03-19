@@ -6,7 +6,7 @@ draft: false
 
 ### <a href="https://bassconnections.duke.edu/project-teams/blue-devil-resistome-project-2017-2018" target="_blank">Blue Devil Resistome</a> (2017-2018)
 
-Selected to work alongside Duke Medical School and BME faculty to better understand the potential risks associated with healthcare centers, environmental microbes, and infectious diseases through mapping the distribution of antibiotic-resistance genes across the Duke campus. Led the computational team in developing tools for data analysis and dissemination. Personally set up data pipeline and developed project <a href="https://bluedevilresistome.pythonanywhere.com/" target="_blank"> website </a> .
+Selected to work alongside Duke Medical School and BME faculty to better understand the potential risks associated with healthcare centers, environmental microbes, and infectious diseases through mapping the distribution of antibiotic-resistance genes across the Duke campus. Led the computational team in developing tools for data analysis and dissemination. Personally set up data pipeline and developed project website.
 
 
 ### ProtoStar (2017-2018)

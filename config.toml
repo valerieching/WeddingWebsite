@@ -8,7 +8,7 @@ disableKinds=["RSS"]
 publishDir = "docs"
 
 [params]
-  description = '<!--[-->Incoming Research Engineer @ Apple<!--]-->'
+  description = '<!--[-->Research Engineer @ Apple<!--]-->'
   logo = "fa-hand-peace-o"
   copyright = "Annie Katelyn Tang"
 

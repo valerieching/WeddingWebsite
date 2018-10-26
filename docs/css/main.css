@@ -974,9 +974,9 @@ button {
         text-transform: uppercase;
         letter-spacing: 0.2rem;
         font-size: 1.5rem;
-        /*font-weight: bold;*/
         border-bottom: 0;
-        color: black; }
+        color: black;
+        font-weight: bold; }
         #header nav ul li a:hover {
           color: white;
           background-color: rgba(255, 255, 255, 0.075); }

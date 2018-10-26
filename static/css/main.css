@@ -957,7 +957,6 @@ button {
     margin-bottom: 0;
     list-style: none;
     padding-left: 0;
-    /*color: gray;*/
     /*border: solid 1px #ffffff;
     border-radius: 4px*/; }
     #header nav ul li {
@@ -974,8 +973,10 @@ button {
         text-transform: uppercase;
         letter-spacing: 0.2rem;
         font-size: 1rem;
-        border-bottom: 0; }
+        border-bottom: 0;
+        color: black; }
         #header nav ul li a:hover {
+          color: white;
           background-color: rgba(255, 255, 255, 0.075); }
         #header nav ul li a:active {
           background-color: rgba(255, 255, 255, 0.175); }

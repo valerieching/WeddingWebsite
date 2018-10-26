@@ -836,16 +836,6 @@ button {
   body.is-loading #bg:before {
     background-color: #ffffff; }
 
-/*@media screen and (max-width: 1680px) {
-    #bg:after {background-image: url("/images/background-mobile.jpg") no-repeat center center fixed}
-  }*/
-  @media screen and (max-width: 736px) {
-    #bg:after {background-image: url("/images/background-mobile.jpg") no-repeat center center fixed}
-  }
-  @media screen and (max-width: 360px) {
-    #bg:after {background-image: url("/images/background-mobile.jpg") no-repeat center center fixed}
-  }
-
 
 /* Wrapper */
 #wrapper {
@@ -1065,9 +1055,11 @@ button {
             height: 3rem;
             line-height: 3rem;
             min-width: 0;
-            width: 100%; }
+            width: 100%;
+            color: white; }
       #header nav.use-middle:after {
         display: none; } }
+
 
 /* Main */
 #main {

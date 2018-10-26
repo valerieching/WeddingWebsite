@@ -5,6 +5,6 @@ draft: false
 ---
 <center>
 
-<iframe src="https://valandsamlv.app.rsvpify.com/" height="500px" width="500px"></iframe>
+<iframe src="https://valandsamlv.app.rsvpify.com/" width="100%" height="550px"></iframe>
 
 </center>

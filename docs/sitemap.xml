@@ -3,38 +3,33 @@
 
   
   <url>
-    <loc>www.anniekatelyntang.com/#about</loc>
+    <loc>www.anniekatelyntang.com/#details</loc>
     <lastmod>2018-01-08T15:34:09-06:00</lastmod>
   </url>
   
   <url>
-    <loc>www.anniekatelyntang.com/#skills</loc>
+    <loc>www.anniekatelyntang.com/#rsvp</loc>
     <lastmod>2018-01-08T15:33:29-06:00</lastmod>
   </url>
   
   <url>
-    <loc>www.anniekatelyntang.com/#work</loc>
+    <loc>www.anniekatelyntang.com/#registry</loc>
     <lastmod>2018-01-08T15:32:54-06:00</lastmod>
   </url>
   
   <url>
-    <loc>www.anniekatelyntang.com/#research</loc>
-    <lastmod>2018-01-08T15:31:47-06:00</lastmod>
+    <loc>www.anniekatelyntang.com/#</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>www.anniekatelyntang.com/#</loc>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>www.anniekatelyntang.com/#</loc>
     <lastmod>2018-01-08T15:34:09-06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>www.anniekatelyntang.com/#</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>www.anniekatelyntang.com/#</loc>
     <priority>0</priority>
   </url>
   

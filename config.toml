@@ -1,5 +1,5 @@
 baseurl = "www.anniekatelyntang.com"
-title = "Annie K Tang"
+title = "Val & Sam"
 theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "en"
@@ -8,24 +8,7 @@ disableKinds=["RSS"]
 publishDir = "docs"
 
 [params]
-  description = '<!--[-->Research Engineer @ Apple<!--]-->'
-  logo = "fa-hand-peace-o"
-  copyright = "Annie Katelyn Tang"
-
-[[params.social]]
-  medium = "linkedin"
-  icon = "linkedin"
-  url = "https://www.linkedin.com/in/anniekatelyntang/"
-
-[[params.social]]
-  medium = "instagram"
-  icon = "instagram"
-  url = "https://www.instagram.com/anniekatelyntang/"
-
-[[params.social]]
-  medium = "github"
-  icon = "github"
-  url = "https://github.com/anniekatelyn"
+  description = '<!--[-->ARE GETTING MARRIED<!--]-->'
 
 [languages]
 [languages.en]

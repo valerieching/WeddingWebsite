@@ -21,6 +21,6 @@ Eftekhari Residence </br>
 169 Circle Drive </br>
 Bradbury, CA 91008 </br>
 
-*Note: Both receptions will be held outdoors.*
+*Note: Both receptions will be held outdoors and will serve dinner.*
 
 </center>

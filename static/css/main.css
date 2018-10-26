@@ -913,7 +913,7 @@ button {
     -ms-transition: opacity 0.325s ease-in-out;
     transition: opacity 0.325s ease-in-out;
     position: relative;
-    margin-top: 12rem; }
+    margin-top: 5rem; }
     #header > *:before {
       /*content: '';
       display: block;

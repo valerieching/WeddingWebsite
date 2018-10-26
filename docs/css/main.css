@@ -836,6 +836,17 @@ button {
   body.is-loading #bg:before {
     background-color: #ffffff; }
 
+/*@media screen and (max-width: 1680px) {
+    #bg:after {background-image: url("/images/background-mobile.jpg") no-repeat center center fixed}
+  }*/
+  @media screen and (max-width: 736px) {
+    #bg:after {background-image: url("/images/background-mobile.jpg") no-repeat center center fixed}
+  }
+  @media screen and (max-width: 360px) {
+    #bg:after {background-image: url("/images/background-mobile.jpg") no-repeat center center fixed}
+  }
+
+
 /* Wrapper */
 #wrapper {
   display: -moz-flex;
